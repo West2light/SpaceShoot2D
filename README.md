@@ -27,6 +27,6 @@ This is a simple 2D Space Shooter game built using Unity. The player controls a 
 
 ### Installation
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/yourusername/2D-space-shooter.git
